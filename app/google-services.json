@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375606951384",
+    "project_id": "v-talk-ff2f1",
+    "storage_bucket": "v-talk-ff2f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375606951384:android:0dea97bf621afe34eac6ad",
+        "android_client_info": {
+          "package_name": "com.bowen.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLT-Pz-svz3LUZnYEKFS7c4LL62SD4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
