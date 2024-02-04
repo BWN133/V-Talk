@@ -3,6 +3,7 @@ Project by Yihan Shen, Jiacheng Yin, Bowen Yang, Jingkai Fu at Columbia DevFest 
 
 ## Overview
 [see full design here](https://github.com/BWN133/V-Talk/blob/master/design_demo/canvas_v-talk-demo-240204_1525.pdf)
+
 V-Talk is an innovative mobile app designed to offer "casual therapy" for white-collar professionals. In today's high-pressure environment, many find it difficult to seek traditional therapy due to stigma or lack of time. V-Talk addresses this by providing an anonymous, virtual space where individuals can connect, share, and express themselves freely, using virtual characters to enhance user privacy and engagement.
 
 ## Features
